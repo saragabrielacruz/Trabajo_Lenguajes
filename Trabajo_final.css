@@ -1,0 +1,38 @@
+h1{
+    color: #020202;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif; 
+    padding: 10px;
+    background-color: hsl(194, 76%, 68%);
+    border: 3px solid #000000; 
+    border-radius: 4px; 
+    width: 51em; 
+    margin: 50px; 
+}
+body{
+    background: linear-gradient(to right, #e5acdd, #74ebe1, #82eb74); 
+}
+table {
+    border-collapse: collapse;
+    margin:0 auto; 
+    font-weight: bold;
+    font-family: 'Times New Roman'; 
+    color:rgb(0, 0, 0); 
+}
+
+table, th, td {
+    border: 2px solid rgb(5, 4, 4);
+    text-align: right;
+    padding: 4px;
+}
+
+.tablas{
+    display: flex; 
+    align-items: center;
+    gap:30px; 
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
